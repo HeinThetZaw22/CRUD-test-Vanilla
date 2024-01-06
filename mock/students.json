@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Alexander",
+      "phone": "09696749287",
+      "batch": "swd June",
+      "course": "swd"
+    },
+    {
+      "name": "Hein Thet",
+      "phone": "09696712007",
+      "batch": "FDB June",
+      "course": "FDB",
+      "id": 3
+    }
+  ]
